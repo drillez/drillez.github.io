@@ -16,7 +16,6 @@
 title: Dritan Zendeli
 email: dz222bi@lnu.se
 description: >- # this means to ignore newlines until "baseurl:"
-Dritan Zendeli heter jag och här hittar ni mina projekt för denna kurs. Studerar vid Linnéuniversitetet, Kalmar.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: har ingen
@@ -27,6 +26,9 @@ markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -63,3 +63,4 @@ s.setAttribute('data-timestamp', +new Date());
 
 <h4>What is Open Graph and how do you make use of it?</h4>
 
+I Open graph kan du lägga in information hur du vill att din webbplats presenteras när den länkas på tex sociala medier. I open graph så kan man ha en titel, bild och en beskrivning av din website. När man ska skicka länken till någon säg via sociala medier så istället för att det bara är en länk med text så får man nu ut som vi sa innan, en titel en bild och en beskrivning för din website. Ser mycket trevligare ut enligt mig själv och förmodligen tycker dom flesta likadant. Open graph läggs in i meta taggar i din html.head fil. Har lagt in detta i min html.head men just nu får jag bara ut title och github.io länk, försöker lägga till en bild med just nu får jag det inte att funka. 
